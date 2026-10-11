@@ -20,21 +20,4 @@ un champ `[À FOURNIR]` visible dans `PLAN.md` tant qu'il manque.
 - Formulaires : case de consentement non pré-cochée si les données servent à
   autre chose que répondre à la demande ; lien vers la politique sous le bouton.
 
-## Agence immobilière (loi Hoguet, loi ALUR)
 
-- Mentions légales : numéro de **carte professionnelle** (T transaction,
-  G gestion), CCI de délivrance ; **garant financier** (nom, adresse, montant) ;
-  assurance responsabilité civile professionnelle.
-- Page **barème d'honoraires** TTC, transaction et location, avec la partie
-  qui les paie ; même barème affiché en agence.
-- Chaque annonce de vente : prix honoraires inclus, prix hors honoraires, montant
-  ou pourcentage des honoraires et à charge de qui ; **DPE et GES** (classes +
-  estimation des coûts annuels d'énergie) ; copropriété (nombre de lots,
-  charges annuelles, procédure en cours) ; surface Carrez si applicable.
-- Chaque annonce de location : loyer charges comprises, montant des charges et
-  mode de règlement, dépôt de garantie, honoraires locataire (dont état des
-  lieux), surface habitable, meublé ou non, zone tendue et loyer de référence
-  si applicable, DPE et GES.
-- Biens classés G : pas de mise en location d'un logement « indécent »
-  énergétiquement (calendrier loi Climat) ; mentionner « logement à consommation
-  énergétique excessive » quand c'est requis.
