@@ -56,5 +56,5 @@ avec ses scripts d'extraction et mes 39 autres skills. C'est là qu'elle évolue
 
 ---
 
-Rafael — étudiant en BUT GEII, sites et agents IA chez [RGM Dev](https://www.rgm-dev.site) ·
+Étudiant en BUT GEII, sites et agents IA chez [RGM Dev](https://www.rgm-dev.site) ·
 [portfolio](https://www.rafaelgmille.site)
